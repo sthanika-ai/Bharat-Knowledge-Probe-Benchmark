@@ -1,0 +1,52 @@
+[project]
+name = "bkp-eval"
+version = "0.1.0"
+description = "Evaluation harness for the Bharat Knowledge Probe (BKP-500) benchmark — model adapters, graders, and scoring."
+requires-python = ">=3.10"
+readme = "README.md"
+license = { text = "Apache-2.0" }
+authors = [{ name = "Sthanika AI" }]
+keywords = ["llm-evaluation", "benchmark", "india", "nlp", "llm"]
+classifiers = [
+  "License :: OSI Approved :: Apache Software License",
+  "Programming Language :: Python :: 3",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = ["jsonschema>=4"]
+
+[project.urls]
+Homepage = "https://github.com/sthanika-ai/Bharat-Knowledge-Probe-Benchmark"
+Dataset = "https://huggingface.co/datasets/sthanika-ai/Bharat-Knowledge-Probe-Benchmark"
+Results = "https://github.com/sthanika-ai/BKP-500-model-runs"
+
+[project.optional-dependencies]
+# Only needed if you load the corpus straight from the Hub (bkp_eval.items.load_corpus_from_hf)
+# instead of a local checkout - see README's "Getting the dataset".
+hf-datasets = ["datasets>=2.19"]
+dev = ["pytest>=8", "hypothesis>=6", "mypy>=1.10", "ruff>=0.6"]
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+bharat_units = ["registry/*.csv"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.mypy]
+python_version = "3.10"
+strict = true
+
+[tool.bandit]
+# Scan the harness itself, not the test suite - pytest's whole grading mechanism IS the `assert`
+# statement (bandit's B101), so every assertion in tests/ trips it for behavior that's correct
+# and required, not a vulnerability. Real security-relevant code lives in src/.
+exclude_dirs = ["tests"]

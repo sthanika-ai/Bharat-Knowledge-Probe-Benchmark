@@ -1,0 +1,4 @@
+pair_id,scheme_id_a,scheme_id_b,collision_note,source_url,accessed,confidence
+CP01,S12,S13,"near-identical transliterated names (Ujjwala/Ujjawala); completely different domains - LPG connections (Petroleum and Natural Gas) vs anti-trafficking rescue/rehabilitation (Women and Child Development)",https://www.pmuy.gov.in/about.html,2026-08-17,high
+CP02,S14,S15,"launched within 3 months of each other in 2016, both entrepreneurship-themed; different target populations (SC/ST and women-specific loan mandate vs all innovation-driven startups) and different instrument types (bank-loan mandate vs ecosystem/regulatory support)",https://www.pib.gov.in/PressReleasePage.aspx?PRID=2119045&reg=3&lang=2,2026-08-17,high
+CP03,S16,S17,"identical Deendayal Antyodaya Yojana (DAY-) prefix and near-identical acronym shape (DAY-NRLM vs DAY-NULM), split only by rural vs urban scope",https://www.nabard.org/content1.aspx?id=582&catid=23&mid=23,2026-08-17,high

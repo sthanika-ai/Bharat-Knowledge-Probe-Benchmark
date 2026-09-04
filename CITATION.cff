@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this evaluation harness or the BKP-500 benchmark, please cite as below."
+title: "BKP-500: Bharat Knowledge Probe"
+abstract: >-
+  A benchmark and evaluation harness for measuring whether large language models know
+  India-specific locale conventions — Indian numeral magnitudes and digit grouping,
+  state-specific land units, traditional mass units, the Indian fiscal year, agricultural
+  crop seasons, and structural identifiers (PAN, GSTIN, IFSC, PIN) — as distinct from general
+  arithmetic competence, via matched internationally-framed control-twin items.
+authors:
+  - name: "Sthanika AI"
+date-released: 2026-08-28
+version: 0.1.0
+license: Apache-2.0
+repository-code: "https://github.com/sthanika-ai/Bharat-Knowledge-Probe-Benchmark"
+url: "https://huggingface.co/datasets/sthanika-ai/Bharat-Knowledge-Probe-Benchmark"
+keywords:
+  - large language models
+  - benchmark
+  - evaluation
+  - india
+  - locale
+  - natural language processing

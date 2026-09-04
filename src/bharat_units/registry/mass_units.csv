@@ -1,0 +1,6 @@
+id,unit,aliases,grams,confidence,source_url,accessed
+MU01,gram,g,1,high,,
+MU02,kilogram,kg,1000,high,,
+MU03,quintal,q,100000,high,,
+MU04,tonne,metric tonne;mt,1000000,high,,
+MU05,pound,lb;avoirdupois pound,453.59237,high,,

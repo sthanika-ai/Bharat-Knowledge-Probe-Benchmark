@@ -1,0 +1,16 @@
+id,term,system,power_of_10,ratio_from_prev,usage_note,source_url,confidence,accessed
+NS01,hundred,international,2,,"common to both systems",,high,
+NS02,thousand,international,3,10,"common to both systems",,high,
+NS03,lakh,indian,5,100,"everyday financial/media usage; 1 lakh = 100 thousand",https://en.wikipedia.org/wiki/Indian_numbering_system,high,2026-08-14
+NS04,million,international,6,10,"everyday financial/media usage internationally; NOT used in Indian financial reporting, which switches to lakh at 10^5",,high,
+NS05,crore,indian,7,100,"everyday financial/media usage; 1 crore = 100 lakh = 10 million",https://en.wikipedia.org/wiki/Indian_numbering_system,high,2026-08-14
+NS06,billion,international,9,1000,"everyday financial/media usage internationally",,high,
+NS07,arab,indian,9,100,"RECALL-LEVEL: mathematically well-defined (1 arab = 100 crore = 1 billion) but essentially never appears in Indian financial press, Union Budget documents, or RBI releases, which stop at crore. Tested here as linguistic/cultural knowledge, not real-world financial fluency.",https://en.wikipedia.org/wiki/Indian_numbering_system,high,2026-08-14
+NS08,trillion,international,12,1000,"everyday usage internationally for national accounts (e.g. '$1 trillion economy')",,high,
+NS09,kharab,indian,11,100,"RECALL-LEVEL, see arab's usage_note. 1 kharab = 100 arab = 10000 crore.",https://en.wikipedia.org/wiki/Indian_numbering_system,high,2026-08-14
+NS10,neel,indian,13,100,"RECALL-LEVEL, archaic/ceremonial register today (Vedic/classical texts). 1 neel = 100 kharab.",https://en.wikipedia.org/wiki/Indian_numbering_system,high,2026-08-14
+NS11,padma,indian,15,100,"RECALL-LEVEL, archaic/ceremonial register today. 1 padma = 100 neel.",https://en.wikipedia.org/wiki/Indian_numbering_system,high,2026-08-14
+NS12,shankh,indian,17,100,"RECALL-LEVEL, archaic/ceremonial register today. 1 shankh = 100 padma.",https://en.wikipedia.org/wiki/Indian_numbering_system,high,2026-08-14
+NS13,quadrillion,international,15,1000,"RECALL-LEVEL, see trillion's usage_note - past this point the short-scale ladder is rarely used day to day. 1 quadrillion = 1000 trillion. The international analogue scripts/generate_controls.py uses for C1 control twins of arab/kharab/neel/padma/shankh.",https://en.wikipedia.org/wiki/Names_of_large_numbers,high,2026-09-01
+NS14,quintillion,international,18,1000,"RECALL-LEVEL, see quadrillion's usage_note. 1 quintillion = 1000 quadrillion.",https://en.wikipedia.org/wiki/Names_of_large_numbers,high,2026-09-01
+NS15,sextillion,international,21,1000,"RECALL-LEVEL, see quadrillion's usage_note. 1 sextillion = 1000 quintillion.",https://en.wikipedia.org/wiki/Names_of_large_numbers,high,2026-09-01

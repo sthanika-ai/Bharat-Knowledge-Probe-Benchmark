@@ -1,0 +1,6 @@
+term,region_states,source_url,accessed,confidence
+tehsil,"Uttar Pradesh, Madhya Pradesh, Rajasthan, Haryana, Punjab (Hindi-belt/northern states)",https://en.wikipedia.org/wiki/Tehsil,2026-08-17,high
+taluk,"Tamil Nadu, Karnataka, Kerala, Gujarat, Maharashtra (also spelled taluka)",https://en.wikipedia.org/wiki/Administrative_divisions_of_India,2026-08-17,high
+mandal,"Andhra Pradesh, Telangana",https://en.wikipedia.org/wiki/List_of_mandals_of_Andhra_Pradesh,2026-08-17,high
+circle,"some North-Eastern states",https://en.wikipedia.org/wiki/Administrative_divisions_of_India,2026-08-17,medium
+sub-division,"some Eastern states",https://en.wikipedia.org/wiki/Administrative_divisions_of_India,2026-08-17,medium
