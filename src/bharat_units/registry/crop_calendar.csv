@@ -1,0 +1,23 @@
+id,crop,season,region_scope,regional_name,sowing_start_month,sowing_end_month,harvest_start_month,harvest_end_month,duration_months,mechanism,note,source_url,accessed,confidence
+CC001,wheat,rabi,,,10,12,3,4,,default,,https://www.tradologie.com/blogs/rabi-crops-list/,2026-08-17,high
+CC002,mustard,rabi,,,10,11,2,3,,default,,https://www.tradologie.com/blogs/rabi-crops-list/,2026-08-17,high
+CC003,gram,rabi,,,10,11,2,3,,default,,https://www.tradologie.com/blogs/rabi-crops-list/,2026-08-17,high
+CC004,barley,rabi,,,10,11,3,4,,default,,https://www.tradologie.com/blogs/rabi-crops-list/,2026-08-17,high
+CC005,paddy,kharif,,,6,7,9,10,,default,"national default; several states additionally grow a rabi/summer crop - see the season_reassignment rows below",https://vajiramandravi.com/upsc-exam/kharif-and-rabi-crops/,2026-08-17,high
+CC006,cotton,kharif,,,4,7,10,1,,default,"aggregate window spanning both sowing-split zones below; cotton is kharif everywhere in India, only the sowing month varies",https://www.apnikheti.com/en/pn/agriculture/crops/fibre-crops/cotton,2026-08-17,high
+CC007,bajra,kharif,,,6,7,9,10,,default,,https://vajiramandravi.com/upsc-exam/kharif-and-rabi-crops/,2026-08-17,high
+CC008,jute,kharif,,,3,5,7,9,,default,"sown earlier than most kharif crops (pre-monsoon/early-monsoon), harvested well before the typical Sep-Oct kharif harvest window",https://krishijagran.com/crop-calendar,2026-08-17,high
+CC009,soybean,kharif,,,6,7,9,10,,default,,https://vajiramandravi.com/upsc-exam/kharif-and-rabi-crops/,2026-08-17,high
+CC010,groundnut,kharif,,,6,7,9,10,,default,,https://vajiramandravi.com/upsc-exam/kharif-and-rabi-crops/,2026-08-17,high
+CC011,tur,kharif,,,6,7,12,1,,default,"long-duration pulse (5-6 months) - sown with the kharif monsoon but harvested well after most other kharif crops",https://www.bighaat.com/kisan-vedika/blogs/pigeon-pea-tur-arhar-cultivation-guide,2026-08-17,high
+CC012,paddy,rabi,WB,boro,11,2,3,6,,season_reassignment,"summer rice grown as a genuine second (rabi/summer) season crop, not a rounding variant of kharif paddy",https://icar-nrri.in/wp-content/uploads/2022/04/RB-36.pdf,2026-08-17,high
+CC013,paddy,rabi,AS,boro,11,2,3,6,,season_reassignment,"same boro crop as West Bengal",https://icar-nrri.in/wp-content/uploads/2022/04/RB-36.pdf,2026-08-17,high
+CC014,paddy,rabi,OD,dalua,11,2,3,6,,season_reassignment,,https://icar-nrri.in/wp-content/uploads/2022/04/RB-36.pdf,2026-08-17,high
+CC015,paddy,rabi,AP,dalwa,11,2,3,6,,season_reassignment,,https://icar-nrri.in/wp-content/uploads/2022/04/RB-36.pdf,2026-08-17,high
+CC016,paddy,rabi,KL,punja,11,2,3,6,,season_reassignment,,https://icar-nrri.in/wp-content/uploads/2022/04/RB-36.pdf,2026-08-17,high
+CC017,paddy,rabi,TN,navarai,11,2,3,6,,season_reassignment,,https://icar-nrri.in/wp-content/uploads/2022/04/RB-36.pdf,2026-08-17,high
+CC018,paddy,rabi,BR,garma,11,2,3,6,,season_reassignment,,https://icar-nrri.in/wp-content/uploads/2022/04/RB-36.pdf,2026-08-17,high
+CC019,cotton,kharif,PB,,3,5,8,11,,sowing_split,"north-zone irrigated cotton (also Haryana, Rajasthan) - sows earlier than the monsoon-fed zone; still classified kharif, not a separate season",https://testbook.com/articles/cotton-crops,2026-08-17,high
+CC020,cotton,kharif,MH,,6,7,10,1,,sowing_split,"central/south-zone rainfed cotton (also Gujarat, Telangana, Andhra Pradesh) - sows with the monsoon",https://testbook.com/articles/cotton-crops,2026-08-17,high
+CC021,sugarcane,,MH,eksali,1,2,,,12,no_fixed_season,"aka 'Suru' in Maharashtra, 'Eksali' in Gujarat/Andhra Pradesh - defined by planting month + fixed duration, not by a kharif/rabi/zaid season; harvest date is planting date + duration, not a fixed calendar window",https://testbook.com/question-answer/eksali-sugarcane-are-planted-in-the-month-of--6088e9a518b5f0290f3c7505,2026-08-17,high
+CC022,sugarcane,,MH,adsali,7,8,,,18,no_fixed_season,"Maharashtra-specific extended-duration planting for higher yield/sugar recovery; duration cited as 15-18 months, 18 used here as the commonly-cited upper/round figure",https://testbook.com/question-answer/adsali-sugarcanes-are-planted-in-the-month-of--606e9460f7078bfac9461c6c,2026-08-17,high

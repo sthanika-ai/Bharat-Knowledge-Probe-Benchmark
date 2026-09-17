@@ -1,0 +1,552 @@
+{"item_id": "BKP-C7-0002", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C1-0111", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"twelve lakh thirty-four thousand five hundred sixty-seven-wrong\"}"}
+{"item_id": "BKP-C6-0060", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"Micro Small and Medium Enterprises\"}"}
+{"item_id": "BKP-C6-0067", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2024.0}"}
+{"item_id": "BKP-C5-0041", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 3.0}"}
+{"item_id": "BKP-C2-0021", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 45.0, \"unit\": \"\"}"}
+{"item_id": "BKP-C4-0059", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C3-0071", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2.5, \"unit\": \"cent\"}"}
+{"item_id": "BKP-C3-0095", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1, \"unit\": \"hectare\"}"}
+{"item_id": "BKP-C2-0036", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 349.90000000000003, \"unit\": \"\"}"}
+{"item_id": "BKP-C2-0057", "model": "demo-model-v0", "regime": "R1", "response": "It depends on the convention: Madras candy: ~227 kg; Surat candy: ~338 kg; no single 'the' candy exists"}
+{"item_id": "BKP-C4-0048", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C2-0001", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 100.0}"}
+{"item_id": "BKP-C4-0005", "model": "demo-model-v0", "regime": "R1", "response": "{\"months\": [3, 4, 5, 6]}"}
+{"item_id": "BKP-C5-0001", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2023-04-01\", \"end\": \"2024-01-01\"}"}
+{"item_id": "BKP-C3-0002", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.2, \"unit\": \"\"}"}
+{"item_id": "BKP-C6-0064", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 20190.0}"}
+{"item_id": "BKP-C5-0080", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"2025-03-08\"}"}
+{"item_id": "BKP-C5-0003", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2019-04-01\", \"end\": \"2020-03-31\"}"}
+{"item_id": "BKP-C1-0093", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 6000000.0}"}
+{"item_id": "BKP-C3-0097", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 3, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C3-0035", "model": "demo-model-v0", "regime": "R1", "response": "The value is 1.0 (a single confident number, no hedge)."}
+{"item_id": "BKP-C4-0067", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2024-10-01\", \"end\": \"2025-09-30\"}"}
+{"item_id": "BKP-C2-0052", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 6.0, \"unit\": \"quintals\"}"}
+{"item_id": "BKP-C1-0097", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 54000000.0}"}
+{"item_id": "BKP-C4-0072", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2023-04-01\", \"end\": \"2024-03-31\"}"}
+{"item_id": "BKP-C3-0096", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2.5, \"unit\": \"hectare\"}"}
+{"item_id": "BKP-C6-0073", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 100.0}"}
+{"item_id": "BKP-C5-0036", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2024-04-01\", \"end\": \"2024-09-28\"}"}
+{"item_id": "BKP-C6-0042", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 3.0}"}
+{"item_id": "BKP-C5-0033", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2026-04-01\", \"end\": \"2027-06-29\"}"}
+{"item_id": "BKP-C4-0088", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 8.4}"}
+{"item_id": "BKP-C1-0069", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 8.5, \"unit\": \"crore\"}"}
+{"item_id": "BKP-C3-0014", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 3.074, \"unit\": \"hectare\"}"}
+{"item_id": "BKP-C1-0060", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 187.0, \"unit\": \"lakh\"}"}
+{"item_id": "BKP-C4-0007", "model": "demo-model-v0", "regime": "R1", "response": "{\"months\": [5, 6]}"}
+{"item_id": "BKP-C3-0086", "model": "demo-model-v0", "regime": "R1", "response": "It depends on the convention: Urban / Ranchi Convention: 720 sq ft; Standard State Revenue Baseline: 1,361.25 sq ft; Chota Nagpur / Palamu Convention: 1,742 sq ft"}
+{"item_id": "BKP-C6-0071", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 60.0}"}
+{"item_id": "BKP-C4-0023", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"rabi\"}"}
+{"item_id": "BKP-C3-0062", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.2, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C3-0029", "model": "demo-model-v0", "regime": "R1", "response": "It depends on the convention: one of several valid conventions"}
+{"item_id": "BKP-C6-0019", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"traditional artisans and craftspeople\"}"}
+{"item_id": "BKP-C7-0015", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"false\"}"}
+{"item_id": "BKP-C6-0029", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"false\"}"}
+{"item_id": "BKP-C4-0080", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C1-0106", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 9.99}"}
+{"item_id": "BKP-C5-0038", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2024-10-01\", \"end\": \"2024-12-31\"}"}
+{"item_id": "BKP-C4-0053", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 16.5}"}
+{"item_id": "BKP-C6-0068", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"Central Sector\"}"}
+{"item_id": "BKP-C4-0070", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C3-0053", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"same\"}"}
+{"item_id": "BKP-C1-0038", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"1,00,000-wrong\"}"}
+{"item_id": "BKP-C5-0002", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2025-04-01\", \"end\": \"2025-12-31\"}"}
+{"item_id": "BKP-C4-0078", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C3-0084", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 20, \"unit\": \"katha\"}"}
+{"item_id": "BKP-C2-0030", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 850000.0}"}
+{"item_id": "BKP-C1-0022", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 100.0, \"unit\": \"padma\"}"}
+{"item_id": "BKP-C6-0004", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C3-0025", "model": "demo-model-v0", "regime": "R1", "response": "The value is 1.0 (a single confident number, no hedge)."}
+{"item_id": "BKP-C5-0081", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"2025-12-01\"}"}
+{"item_id": "BKP-C2-0045", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.125, \"unit\": \"seer\"}"}
+{"item_id": "BKP-C4-0038", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"dalua\"}"}
+{"item_id": "BKP-C3-0016", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 5, \"unit\": \"katha\"}"}
+{"item_id": "BKP-C5-0059", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"one instalment, 100% by 15 March\"}"}
+{"item_id": "BKP-C5-0061", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"2024-11-30\"}"}
+{"item_id": "BKP-C1-0009", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 184.0, \"unit\": \"crore\"}"}
+{"item_id": "BKP-C5-0019", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2024.0}"}
+{"item_id": "BKP-C1-0087", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 100000.0}"}
+{"item_id": "BKP-C6-0027", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"Rural Development\"}"}
+{"item_id": "BKP-C5-0037", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2024-07-01\", \"end\": \"2024-09-30\"}"}
+{"item_id": "BKP-C7-0003", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1.5}"}
+{"item_id": "BKP-C2-0050", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 74.65, \"unit\": \"kilograms\"}"}
+{"item_id": "BKP-C2-0041", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 933.1, \"unit\": \"grams\"}"}
+{"item_id": "BKP-C4-0011", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 60.0}"}
+{"item_id": "BKP-C6-0053", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C5-0017", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2024-04-01\", \"end\": \"2025-03-31\"}"}
+{"item_id": "BKP-C2-0065", "model": "demo-model-v0", "regime": "R1", "response": "The value is 1.0 (a single confident number, no hedge)."}
+{"item_id": "BKP-C6-0043", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 15.0}"}
+{"item_id": "BKP-C4-0003", "model": "demo-model-v0", "regime": "R1", "response": "{\"months\": [10, 11, 12]}"}
+{"item_id": "BKP-C3-0065", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.04000000000000001, \"unit\": \"\"}"}
+{"item_id": "BKP-C4-0061", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2019-07-01\", \"end\": \"2020-06-30\"}"}
+{"item_id": "BKP-C3-0098", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 20, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C4-0091", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"recommend\"}"}
+{"item_id": "BKP-C2-0043", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.2, \"unit\": \"chhatak\"}"}
+{"item_id": "BKP-C1-0101", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 250000.0}"}
+{"item_id": "BKP-C3-0017", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 20, \"unit\": \"lecha\"}"}
+{"item_id": "BKP-C1-0043", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"12,34,56,789-wrong\"}"}
+{"item_id": "BKP-C1-0091", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 12500000.0}"}
+{"item_id": "BKP-C6-0044", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 5.0}"}
+{"item_id": "BKP-C7-0004", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C1-0023", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 10000000000.0}"}
+{"item_id": "BKP-C3-0019", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.083, \"unit\": \"\"}"}
+{"item_id": "BKP-C3-0080", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 5760, \"unit\": \"sq_ft\"}"}
+{"item_id": "BKP-C2-0008", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 66.2, \"unit\": \"rupees per kg\"}"}
+{"item_id": "BKP-C1-0080", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 36000.0}"}
+{"item_id": "BKP-C2-0033", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 900.0, \"unit\": \"\"}"}
+{"item_id": "BKP-C4-0040", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C3-0027", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.5, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C3-0048", "model": "demo-model-v0", "regime": "R1", "response": "It depends on the convention: one of several valid conventions"}
+{"item_id": "BKP-C2-0022", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1200.0, \"unit\": \"tonnes\"}"}
+{"item_id": "BKP-C5-0083", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 5.5}"}
+{"item_id": "BKP-C2-0066", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 17.0, \"unit\": \"\"}"}
+{"item_id": "BKP-C2-0044", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 4.0, \"unit\": \"chhatak\"}"}
+{"item_id": "BKP-C1-0046", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"2,00,00,000\"}"}
+{"item_id": "BKP-C5-0013", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2026-04-01\", \"end\": \"2027-03-31\"}"}
+{"item_id": "BKP-C6-0016", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"Indira Awaas Yojana\"}"}
+{"item_id": "BKP-C5-0039", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2025-01-01\", \"end\": \"2025-06-29\"}"}
+{"item_id": "BKP-C3-0076", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 8166.0, \"unit\": \"sq_ft\"}"}
+{"item_id": "BKP-C5-0077", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 4.0}"}
+{"item_id": "BKP-C4-0084", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"Rabi\"}"}
+{"item_id": "BKP-C5-0058", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 10000.0}"}
+{"item_id": "BKP-C5-0011", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2024-04-01\", \"end\": \"2024-12-31\"}"}
+{"item_id": "BKP-C6-0030", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"Ujjawala\"}"}
+{"item_id": "BKP-C1-0075", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 11.2, \"unit\": \"crore\"}"}
+{"item_id": "BKP-C3-0033", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1.42, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C1-0107", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 123456.0}"}
+{"item_id": "BKP-C1-0005", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 50.0, \"unit\": \"crore\"}"}
+{"item_id": "BKP-C2-0037", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 116.64, \"unit\": \"grams\"}"}
+{"item_id": "BKP-C1-0020", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 100.0, \"unit\": \"kharab\"}"}
+{"item_id": "BKP-C6-0009", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"PM Street Vendor's AtmaNirbhar Nidhi\"}"}
+{"item_id": "BKP-C1-0089", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 75000.0}"}
+{"item_id": "BKP-C5-0008", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2020-04-01\", \"end\": \"2021-03-31\"}"}
+{"item_id": "BKP-C2-0010", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 19.2, \"unit\": \"\"}"}
+{"item_id": "BKP-C6-0014", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C3-0039", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1.012, \"unit\": \"hectare\"}"}
+{"item_id": "BKP-C5-0049", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C4-0017", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C4-0085", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C2-0003", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 35.0}"}
+{"item_id": "BKP-C1-0042", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"9,99,999-wrong\"}"}
+{"item_id": "BKP-C3-0059", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 5.51, \"unit\": \"cent\"}"}
+{"item_id": "BKP-C3-0058", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 7200, \"unit\": \"sq_ft\"}"}
+{"item_id": "BKP-C4-0022", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C3-0072", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.4, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C1-0012", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.82, \"unit\": \"million\"}"}
+{"item_id": "BKP-C5-0042", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1.0}"}
+{"item_id": "BKP-C3-0063", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1080, \"unit\": \"sq_ft\"}"}
+{"item_id": "BKP-C6-0036", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 5.0, \"unit\": \"kg per person per month\"}"}
+{"item_id": "BKP-C1-0014", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.008, \"unit\": \"\"}"}
+{"item_id": "BKP-C4-0060", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2023-07-01\", \"end\": \"2024-06-30\"}"}
+{"item_id": "BKP-C6-0005", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"Pradhan Mantri Kisan Samman Nidhi\"}"}
+{"item_id": "BKP-C4-0071", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2023-10-01\", \"end\": \"2024-09-30\"}"}
+{"item_id": "BKP-C4-0046", "model": "demo-model-v0", "regime": "R1", "response": "{\"months\": [6, 7]}"}
+{"item_id": "BKP-C3-0011", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2.64, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C6-0052", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C1-0054", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 5000000.0}"}
+{"item_id": "BKP-C2-0054", "model": "demo-model-v0", "regime": "R1", "response": "It depends on the convention: Bengal/standard: 37.324 kg; Punjab: 36.740 kg; modern colloquial: ~40 kg"}
+{"item_id": "BKP-C1-0070", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 5.5, \"unit\": \"lakh\"}"}
+{"item_id": "BKP-C6-0038", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C2-0067", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 216.0, \"unit\": \"kilograms\"}"}
+{"item_id": "BKP-C6-0072", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 9.0}"}
+{"item_id": "BKP-C4-0068", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2024-11-01\", \"end\": \"2025-10-31\"}"}
+{"item_id": "BKP-C2-0060", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 36.0}"}
+{"item_id": "BKP-C4-0026", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"rabi\"}"}
+{"item_id": "BKP-C1-0027", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1500.0}"}
+{"item_id": "BKP-C7-0011", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C2-0031", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 12030000.0}"}
+{"item_id": "BKP-C2-0069", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.72, \"unit\": \"\"}"}
+{"item_id": "BKP-C4-0032", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"kharif\"}"}
+{"item_id": "BKP-C2-0046", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.933104304, \"unit\": \"kilograms\"}"}
+{"item_id": "BKP-C1-0078", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 15.5, \"unit\": \"lakh\"}"}
+{"item_id": "BKP-C2-0029", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1280000.0}"}
+{"item_id": "BKP-C4-0031", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C6-0046", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"2%\"}"}
+{"item_id": "BKP-C1-0073", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 37.0, \"unit\": \"crore\"}"}
+{"item_id": "BKP-C6-0059", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"Jal Shakti\"}"}
+{"item_id": "BKP-C1-0063", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 48000.0, \"unit\": \"lakh\"}"}
+{"item_id": "BKP-C3-0030", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 15.809999999999999, \"unit\": \"\"}"}
+{"item_id": "BKP-C7-0008", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C6-0021", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C6-0058", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C2-0019", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 28.0, \"unit\": \"quintals per hectare\"}"}
+{"item_id": "BKP-C4-0089", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"2nd\"}"}
+{"item_id": "BKP-C5-0069", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"2025-07-31\"}"}
+{"item_id": "BKP-C2-0070", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 34.8, \"unit\": \"tonnes\"}"}
+{"item_id": "BKP-C3-0085", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 4320.0, \"unit\": \"sq_ft\"}"}
+{"item_id": "BKP-C5-0027", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"FY2019-20\"}"}
+{"item_id": "BKP-C4-0047", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C2-0072", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 10.0}"}
+{"item_id": "BKP-C1-0003", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 36.0, \"unit\": \"lakh\"}"}
+{"item_id": "BKP-C1-0019", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 10000.0, \"unit\": \"lakh\"}"}
+{"item_id": "BKP-C3-0008", "model": "demo-model-v0", "regime": "R1", "response": "It depends on the convention: Patna & Magadh Standard: 27,225 sq ft; Muzaffarpur & Mithila Standard: 30,000 sq ft"}
+{"item_id": "BKP-C4-0027", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"kharif\"}"}
+{"item_id": "BKP-C1-0077", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 5.0, \"unit\": \"crore\"}"}
+{"item_id": "BKP-C4-0075", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"false\"}"}
+{"item_id": "BKP-C3-0010", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1.25, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C5-0068", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"quarterly\"}"}
+{"item_id": "BKP-C5-0053", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"last working day of February\"}"}
+{"item_id": "BKP-C3-0069", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1.15, \"unit\": \"\"}"}
+{"item_id": "BKP-C4-0086", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"October\"}"}
+{"item_id": "BKP-C5-0026", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"FY2024-25\"}"}
+{"item_id": "BKP-C4-0002", "model": "demo-model-v0", "regime": "R1", "response": "{\"months\": [11, 12]}"}
+{"item_id": "BKP-C2-0061", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 40.0}"}
+{"item_id": "BKP-C1-0053", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 333333330.0}"}
+{"item_id": "BKP-C1-0067", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 165600.0, \"unit\": \"crore\"}"}
+{"item_id": "BKP-C3-0045", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 7.2, \"unit\": \"\"}"}
+{"item_id": "BKP-C2-0023", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 85.0, \"unit\": \"tonnes\"}"}
+{"item_id": "BKP-C2-0034", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 3152.0, \"unit\": \"lakh tonnes\"}"}
+{"item_id": "BKP-C4-0044", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C2-0058", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.608, \"unit\": \"grams\"}"}
+{"item_id": "BKP-C6-0017", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"National Health Protection Scheme\"}"}
+{"item_id": "BKP-C5-0051", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"2017-02-01\"}"}
+{"item_id": "BKP-C2-0048", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 89.58000000000001, \"unit\": \"kilograms\"}"}
+{"item_id": "BKP-C4-0036", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"boro\"}"}
+{"item_id": "BKP-C3-0031", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 16, \"unit\": \"mutthi\"}"}
+{"item_id": "BKP-C5-0006", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2021-04-01\", \"end\": \"2022-03-31\"}"}
+{"item_id": "BKP-C1-0064", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.27, \"unit\": \"crore\"}"}
+{"item_id": "BKP-C2-0035", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 10.0, \"unit\": \"lakh tonnes\"}"}
+{"item_id": "BKP-C3-0075", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.2, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C1-0104", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 12345678.0}"}
+{"item_id": "BKP-C1-0061", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": -0.8902, \"unit\": \"lakh crore\"}"}
+{"item_id": "BKP-C2-0062", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 800.0}"}
+{"item_id": "BKP-C3-0032", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.0059499999999999996, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C6-0006", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"Pradhan Mantri Garib Kalyan Anna Yojana\"}"}
+{"item_id": "BKP-C1-0018", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 100.0, \"unit\": \"arab\"}"}
+{"item_id": "BKP-C3-0083", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 6912.0, \"unit\": \"sq_ft\"}"}
+{"item_id": "BKP-C1-0021", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 100.0, \"unit\": \"neel\"}"}
+{"item_id": "BKP-C2-0020", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 12.0, \"unit\": \"quintals per hectare\"}"}
+{"item_id": "BKP-C3-0087", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.2, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C4-0065", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"February\"}"}
+{"item_id": "BKP-C4-0054", "model": "demo-model-v0", "regime": "R1", "response": "{\"months\": [7, 8]}"}
+{"item_id": "BKP-C3-0036", "model": "demo-model-v0", "regime": "R1", "response": "It depends on the convention: one of several valid conventions"}
+{"item_id": "BKP-C5-0022", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C4-0069", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"separately\"}"}
+{"item_id": "BKP-C2-0039", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2500.0, \"unit\": \"grams\"}"}
+{"item_id": "BKP-C1-0013", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 6500.0, \"unit\": \"million\"}"}
+{"item_id": "BKP-C3-0051", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 968.0, \"unit\": \"sq_yd\"}"}
+{"item_id": "BKP-C5-0014", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2018-04-01\", \"end\": \"2019-03-31\"}"}
+{"item_id": "BKP-C6-0012", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"PMAY-G\"}"}
+{"item_id": "BKP-C1-0016", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1.2, \"unit\": \"million\"}"}
+{"item_id": "BKP-C6-0001", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"Mahatma Gandhi National Rural Employment Guarantee Act\"}"}
+{"item_id": "BKP-C3-0006", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1089.0, \"unit\": \"\"}"}
+{"item_id": "BKP-C6-0032", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 3.0}"}
+{"item_id": "BKP-C1-0015", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 120.0, \"unit\": \"\"}"}
+{"item_id": "BKP-C6-0048", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 400000.0, \"unit\": \"rupees\"}"}
+{"item_id": "BKP-C1-0076", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 9.0, \"unit\": \"lakh\"}"}
+{"item_id": "BKP-C4-0008", "model": "demo-model-v0", "regime": "R1", "response": "{\"months\": [6, 7]}"}
+{"item_id": "BKP-C1-0040", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"76,54,321\"}"}
+{"item_id": "BKP-C5-0046", "model": "demo-model-v0", "regime": "R1", "response": "{\"months\": [4, 5, 6]}"}
+{"item_id": "BKP-C3-0001", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 31.25, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C6-0035", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"different\"}"}
+{"item_id": "BKP-C6-0007", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C3-0079", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2.182, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C3-0005", "model": "demo-model-v0", "regime": "R1", "response": "The value is 1.0 (a single confident number, no hedge)."}
+{"item_id": "BKP-C2-0068", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 42.5, \"unit\": \"tonnes\"}"}
+{"item_id": "BKP-C4-0050", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"planting month and duration\"}"}
+{"item_id": "BKP-C5-0057", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 75.0}"}
+{"item_id": "BKP-C6-0034", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 500000.0, \"unit\": \"rupees per family per year\"}"}
+{"item_id": "BKP-C3-0067", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.6, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C3-0018", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2.5, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C3-0055", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.3, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C4-0016", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C6-0057", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"Agriculture and Farmers Welfare\"}"}
+{"item_id": "BKP-C5-0040", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 3.0}"}
+{"item_id": "BKP-C4-0077", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C6-0002", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C4-0055", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"adsali\"}"}
+{"item_id": "BKP-C4-0028", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C5-0070", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C4-0018", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"winter\"}"}
+{"item_id": "BKP-C3-0064", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 14.4, \"unit\": \"guntha\"}"}
+{"item_id": "BKP-C5-0025", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"AY2024-25\"}"}
+{"item_id": "BKP-C4-0010", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"zaid\"}"}
+{"item_id": "BKP-C1-0086", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 300000.0}"}
+{"item_id": "BKP-C4-0021", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C1-0048", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 120000.0}"}
+{"item_id": "BKP-C1-0008", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 200.0, \"unit\": \"lakh\"}"}
+{"item_id": "BKP-C7-0014", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C3-0104", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.025, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C3-0044", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 125.0, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C1-0039", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"1,23,45,678\"}"}
+{"item_id": "BKP-C4-0056", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"earlier\"}"}
+{"item_id": "BKP-C6-0003", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"Pradhan Mantri Awaas Yojana - Gramin\"}"}
+{"item_id": "BKP-C4-0076", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 7.2}"}
+{"item_id": "BKP-C1-0094", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 250000.0}"}
+{"item_id": "BKP-C5-0084", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 350.0}"}
+{"item_id": "BKP-C6-0066", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2023.0}"}
+{"item_id": "BKP-C3-0047", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.2, \"unit\": \"marla\"}"}
+{"item_id": "BKP-C5-0015", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2024-04-01\", \"end\": \"2025-03-31\"}"}
+{"item_id": "BKP-C4-0014", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C6-0039", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C6-0051", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 4.0}"}
+{"item_id": "BKP-C1-0056", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 88888888.0}"}
+{"item_id": "BKP-C4-0037", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C3-0024", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2.5, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C1-0032", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 48.0, \"unit\": \"lakh crore\"}"}
+{"item_id": "BKP-C1-0051", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 10000000.0}"}
+{"item_id": "BKP-C6-0074", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"90:10\"}"}
+{"item_id": "BKP-C5-0024", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C3-0028", "model": "demo-model-v0", "regime": "R1", "response": "The value is 1.0 (a single confident number, no hedge)."}
+{"item_id": "BKP-C6-0061", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C6-0018", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C6-0062", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2018.0}"}
+{"item_id": "BKP-C1-0050", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 999999.0}"}
+{"item_id": "BKP-C1-0049", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 548146800.0}"}
+{"item_id": "BKP-C1-0098", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 120000.0}"}
+{"item_id": "BKP-C3-0026", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1.5, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C5-0048", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"FY-Q4\"}"}
+{"item_id": "BKP-C2-0014", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 32.0, \"unit\": \"quintals per hectare\"}"}
+{"item_id": "BKP-C3-0060", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 720, \"unit\": \"sq_ft\"}"}
+{"item_id": "BKP-C6-0040", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 100.0}"}
+{"item_id": "BKP-C4-0006", "model": "demo-model-v0", "regime": "R1", "response": "{\"months\": [10, 11]}"}
+{"item_id": "BKP-C1-0068", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1.26, \"unit\": \"crore\"}"}
+{"item_id": "BKP-C5-0062", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"2025-01-31\"}"}
+{"item_id": "BKP-C1-0110", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"one lakh-wrong\"}"}
+{"item_id": "BKP-C5-0078", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"after\"}"}
+{"item_id": "BKP-C6-0025", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"Commerce and Industry (DPIIT)\"}"}
+{"item_id": "BKP-C2-0011", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 7755.0, \"unit\": \"rupees per kg\"}"}
+{"item_id": "BKP-C3-0081", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1.5, \"unit\": \"katha\"}"}
+{"item_id": "BKP-C4-0029", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"kharif\"}"}
+{"item_id": "BKP-C2-0059", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": -0.08999999999999997, \"unit\": \"grams\"}"}
+{"item_id": "BKP-C5-0073", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 3.0}"}
+{"item_id": "BKP-C1-0035", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 3000.0}"}
+{"item_id": "BKP-C4-0033", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"kharif\"}"}
+{"item_id": "BKP-C7-0005", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 11.0}"}
+{"item_id": "BKP-C6-0011", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C1-0004", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.15, \"unit\": \"million\"}"}
+{"item_id": "BKP-C5-0074", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 9.0}"}
+{"item_id": "BKP-C5-0034", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"AY2024-25\"}"}
+{"item_id": "BKP-C5-0075", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 12.0}"}
+{"item_id": "BKP-C5-0021", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"AY2025-26\"}"}
+{"item_id": "BKP-C4-0015", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"kharif\"}"}
+{"item_id": "BKP-C1-0011", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 29050.0, \"unit\": \"crore\"}"}
+{"item_id": "BKP-C2-0063", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.1}"}
+{"item_id": "BKP-C5-0032", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2021-04-01\", \"end\": \"2022-03-31\"}"}
+{"item_id": "BKP-C2-0005", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 21.83, \"unit\": \"rupees per kg\"}"}
+{"item_id": "BKP-C5-0079", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"2025-03-04\"}"}
+{"item_id": "BKP-C1-0062", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2.3, \"unit\": \"crore\"}"}
+{"item_id": "BKP-C3-0049", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.5, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C3-0082", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 30.0, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C3-0042", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 7.2, \"unit\": \"sarsai\"}"}
+{"item_id": "BKP-C5-0065", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2020-07-01\", \"end\": \"2020-12-31\"}"}
+{"item_id": "BKP-C5-0045", "model": "demo-model-v0", "regime": "R1", "response": "{\"months\": [10, 11, 12]}"}
+{"item_id": "BKP-C6-0063", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2016.0}"}
+{"item_id": "BKP-C1-0103", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 500000.0}"}
+{"item_id": "BKP-C4-0079", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C5-0063", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"2025-05-31\"}"}
+{"item_id": "BKP-C5-0030", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"FY2023-24\"}"}
+{"item_id": "BKP-C4-0024", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C5-0023", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"AY2027-28\"}"}
+{"item_id": "BKP-C5-0056", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 45.0}"}
+{"item_id": "BKP-C1-0085", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 30000.0}"}
+{"item_id": "BKP-C7-0013", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 5.0}"}
+{"item_id": "BKP-C3-0061", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.2, \"unit\": \"cent\"}"}
+{"item_id": "BKP-C4-0051", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"kharif\"}"}
+{"item_id": "BKP-C1-0066", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1.9975, \"unit\": \"crore\"}"}
+{"item_id": "BKP-C1-0065", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 420.0, \"unit\": \"lakh\"}"}
+{"item_id": "BKP-C3-0090", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2.012, \"unit\": \"hectare\"}"}
+{"item_id": "BKP-C6-0037", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.35000000000000003, \"unit\": \"\"}"}
+{"item_id": "BKP-C3-0066", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.15, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C1-0044", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"5,00,00,000\"}"}
+{"item_id": "BKP-C6-0031", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 7200.0, \"unit\": \"rupees per year\"}"}
+{"item_id": "BKP-C6-0028", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C2-0013", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 20.9, \"unit\": \"rupees per kg\"}"}
+{"item_id": "BKP-C1-0030", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 40000.0}"}
+{"item_id": "BKP-C2-0012", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 27.75, \"unit\": \"rupees per kg\"}"}
+{"item_id": "BKP-C2-0047", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 3.6654999999999998, \"unit\": \"kilograms\"}"}
+{"item_id": "BKP-C5-0044", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 5.0}"}
+{"item_id": "BKP-C6-0050", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 20000000.0, \"unit\": \"rupees\"}"}
+{"item_id": "BKP-C1-0010", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 5.42, \"unit\": \"billion\"}"}
+{"item_id": "BKP-C7-0012", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"Uttar Pradesh\"}"}
+{"item_id": "BKP-C2-0055", "model": "demo-model-v0", "regime": "R1", "response": "It depends on the convention: Madras candy: ~227 kg; Surat candy: ~338 kg; no single 'the' candy exists"}
+{"item_id": "BKP-C4-0020", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.02}"}
+{"item_id": "BKP-C1-0001", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 500000.0}"}
+{"item_id": "BKP-C3-0089", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 864.0, \"unit\": \"sq_ft\"}"}
+{"item_id": "BKP-C3-0094", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C1-0083", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 36000.0}"}
+{"item_id": "BKP-C3-0009", "model": "demo-model-v0", "regime": "R1", "response": "It depends on the convention: one of several valid conventions"}
+{"item_id": "BKP-C5-0072", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 9.0}"}
+{"item_id": "BKP-C1-0102", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1234567.0}"}
+{"item_id": "BKP-C6-0010", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C4-0090", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C5-0085", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"false\"}"}
+{"item_id": "BKP-C2-0042", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1.933104304, \"unit\": \"\"}"}
+{"item_id": "BKP-C4-0034", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"wheat\"}"}
+{"item_id": "BKP-C1-0055", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 240000.0}"}
+{"item_id": "BKP-C3-0077", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 7500, \"unit\": \"sq_ft\"}"}
+{"item_id": "BKP-C1-0092", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 15000000.0}"}
+{"item_id": "BKP-C3-0074", "model": "demo-model-v0", "regime": "R1", "response": "The value is 1.0 (a single confident number, no hedge)."}
+{"item_id": "BKP-C6-0022", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C4-0082", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"2025-05-28\"}"}
+{"item_id": "BKP-C6-0033", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2000.0, \"unit\": \"rupees\"}"}
+{"item_id": "BKP-C1-0002", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 8.0, \"unit\": \"\"}"}
+{"item_id": "BKP-C6-0024", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C6-0049", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1000000.0, \"unit\": \"rupees\"}"}
+{"item_id": "BKP-C3-0040", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.75, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C6-0047", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 5000000.0, \"unit\": \"rupees\"}"}
+{"item_id": "BKP-C1-0058", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.09, \"unit\": \"crore\"}"}
+{"item_id": "BKP-C2-0064", "model": "demo-model-v0", "regime": "R1", "response": "It depends on the convention: 4 Dozen Peti (Standard/Large Grade): 48 mangoes; 5 Dozen Peti (Medium Grade): 60 mangoes; 6 Dozen Peti (Small Grade): 72 mangoes; Small Gift Box (1 dozen): 12 mangoes; Small Gift Box (2 dozen): 24 mangoes"}
+{"item_id": "BKP-C4-0042", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C6-0015", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C5-0007", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2025-04-01\", \"end\": \"2026-03-31\"}"}
+{"item_id": "BKP-C3-0092", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 45000, \"unit\": \"\"}"}
+{"item_id": "BKP-C6-0013", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"PMFBY\"}"}
+{"item_id": "BKP-C1-0059", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": -0.09999999999999998, \"unit\": \"\"}"}
+{"item_id": "BKP-C4-0083", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"2024-10-16\"}"}
+{"item_id": "BKP-C5-0031", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2023-04-01\", \"end\": \"2024-01-01\"}"}
+{"item_id": "BKP-C1-0006", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2.2, \"unit\": \"trillion\"}"}
+{"item_id": "BKP-C3-0101", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 16, \"unit\": \"kani\"}"}
+{"item_id": "BKP-C2-0018", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 15.0, \"unit\": \"quintals per hectare\"}"}
+{"item_id": "BKP-C6-0054", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C3-0057", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.25, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C5-0029", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C3-0013", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 19.2, \"unit\": \"chatak\"}"}
+{"item_id": "BKP-C3-0015", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1.32, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C7-0006", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C4-0019", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1.0}"}
+{"item_id": "BKP-C3-0034", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 20, \"unit\": \"biswa\"}"}
+{"item_id": "BKP-C6-0065", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 20190.0}"}
+{"item_id": "BKP-C5-0028", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"FY2026-27\"}"}
+{"item_id": "BKP-C1-0082", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 9000.0}"}
+{"item_id": "BKP-C6-0045", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"kharif\"}"}
+{"item_id": "BKP-C1-0079", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 900.0}"}
+{"item_id": "BKP-C1-0057", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 531.0, \"unit\": \"lakh\"}"}
+{"item_id": "BKP-C1-0025", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 200000.0}"}
+{"item_id": "BKP-C5-0009", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2028-04-01\", \"end\": \"2029-03-31\"}"}
+{"item_id": "BKP-C1-0047", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1234567.0}"}
+{"item_id": "BKP-C3-0070", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.08, \"unit\": \"hectare\"}"}
+{"item_id": "BKP-C3-0078", "model": "demo-model-v0", "regime": "R1", "response": "The value is 1.0 (a single confident number, no hedge)."}
+{"item_id": "BKP-C1-0071", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 5.9, \"unit\": \"crore\"}"}
+{"item_id": "BKP-C6-0070", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C6-0041", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C3-0022", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1.65, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C4-0012", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 72.0}"}
+{"item_id": "BKP-C3-0037", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.1, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C4-0013", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C5-0005", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2023-04-01\", \"end\": \"2024-03-31\"}"}
+{"item_id": "BKP-C2-0024", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 300.0, \"unit\": \"tonnes\"}"}
+{"item_id": "BKP-C3-0093", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 200, \"unit\": \"sq_yd\"}"}
+{"item_id": "BKP-C4-0001", "model": "demo-model-v0", "regime": "R1", "response": "{\"months\": [6, 7]}"}
+{"item_id": "BKP-C5-0004", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2027-04-01\", \"end\": \"2028-01-01\"}"}
+{"item_id": "BKP-C2-0016", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 18.0, \"unit\": \"quintals per hectare\"}"}
+{"item_id": "BKP-C1-0072", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 4.75, \"unit\": \"lakh\"}"}
+{"item_id": "BKP-C2-0025", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 225.0, \"unit\": \"tonnes\"}"}
+{"item_id": "BKP-C1-0074", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 12590.0, \"unit\": \"lakh\"}"}
+{"item_id": "BKP-C3-0052", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.63, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C4-0043", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"rabi\"}"}
+{"item_id": "BKP-C3-0020", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 20, \"unit\": \"biswa (pucca)\"}"}
+{"item_id": "BKP-C3-0073", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 40, \"unit\": \"decimal\"}"}
+{"item_id": "BKP-C4-0049", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"kharif\"}"}
+{"item_id": "BKP-C5-0067", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 4.0}"}
+{"item_id": "BKP-C5-0071", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C6-0056", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C4-0004", "model": "demo-model-v0", "regime": "R1", "response": "{\"months\": [3, 4]}"}
+{"item_id": "BKP-C1-0109", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"forty-five thousand six hundred seventy-eight\"}"}
+{"item_id": "BKP-C1-0034", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 333.3, \"unit\": \"lakh crore\"}"}
+{"item_id": "BKP-C2-0027", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 35773.0, \"unit\": \"LMT\"}"}
+{"item_id": "BKP-C3-0023", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C2-0051", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 5.599, \"unit\": \"quintals\"}"}
+{"item_id": "BKP-C5-0035", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"false\"}"}
+{"item_id": "BKP-C1-0017", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 100.0, \"unit\": \"crore\"}"}
+{"item_id": "BKP-C5-0043", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2.0}"}
+{"item_id": "BKP-C2-0007", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 20.9, \"unit\": \"rupees per kg\"}"}
+{"item_id": "BKP-C1-0029", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": -0.75, \"unit\": \"percent\"}"}
+{"item_id": "BKP-C5-0020", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1619.2}"}
+{"item_id": "BKP-C5-0016", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2023-04-01\", \"end\": \"2024-03-31\"}"}
+{"item_id": "BKP-C5-0054", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"2025-02-02\"}"}
+{"item_id": "BKP-C2-0056", "model": "demo-model-v0", "regime": "R1", "response": "The value is 1.0 (a single confident number, no hedge)."}
+{"item_id": "BKP-C4-0064", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"September\"}"}
+{"item_id": "BKP-C2-0002", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 10.0}"}
+{"item_id": "BKP-C3-0103", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 110, \"unit\": \"ft\"}"}
+{"item_id": "BKP-C7-0001", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C4-0041", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"navarai\"}"}
+{"item_id": "BKP-C2-0028", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 3616000.0}"}
+{"item_id": "BKP-C6-0026", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C3-0054", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 3267, \"unit\": \"sq_ft\"}"}
+{"item_id": "BKP-C6-0020", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"street vendors\"}"}
+{"item_id": "BKP-C2-0015", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 45.0, \"unit\": \"quintals per hectare\"}"}
+{"item_id": "BKP-C4-0087", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"before\"}"}
+{"item_id": "BKP-C3-0091", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1.9700000000000002, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C1-0088", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 150000.0}"}
+{"item_id": "BKP-C6-0023", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C4-0025", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"rabi\"}"}
+{"item_id": "BKP-C1-0037", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"12,34,567\"}"}
+{"item_id": "BKP-C4-0045", "model": "demo-model-v0", "regime": "R1", "response": "{\"months\": [4, 5]}"}
+{"item_id": "BKP-C4-0063", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"different\"}"}
+{"item_id": "BKP-C4-0073", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2024-10-01\", \"end\": \"2025-12-29\"}"}
+{"item_id": "BKP-C2-0026", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 353.96, \"unit\": \"MMT\"}"}
+{"item_id": "BKP-C4-0057", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C1-0108", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 30000000.0}"}
+{"item_id": "BKP-C2-0071", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 30.0}"}
+{"item_id": "BKP-C3-0007", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1500, \"unit\": \"sq_ft\"}"}
+{"item_id": "BKP-C1-0084", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 60000.0}"}
+{"item_id": "BKP-C3-0004", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2.13, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C5-0050", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"false\"}"}
+{"item_id": "BKP-C4-0039", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"dalwa\"}"}
+{"item_id": "BKP-C3-0050", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 20, \"unit\": \"marla\"}"}
+{"item_id": "BKP-C7-0010", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"O and I\"}"}
+{"item_id": "BKP-C3-0012", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 20, \"unit\": \"katha\"}"}
+{"item_id": "BKP-C1-0052", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 76543210.0}"}
+{"item_id": "BKP-C5-0066", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"FY2021-22\"}"}
+{"item_id": "BKP-C2-0009", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 53.35, \"unit\": \"rupees per kg\"}"}
+{"item_id": "BKP-C5-0060", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"2024-07-31\"}"}
+{"item_id": "BKP-C1-0041", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"10,00,00,000-wrong\"}"}
+{"item_id": "BKP-C2-0038", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 151.63, \"unit\": \"grams\"}"}
+{"item_id": "BKP-C5-0018", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"false\"}"}
+{"item_id": "BKP-C2-0006", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 67.8, \"unit\": \"\"}"}
+{"item_id": "BKP-C4-0052", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 110.0}"}
+{"item_id": "BKP-C1-0024", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 10000.0, \"unit\": \"crore\"}"}
+{"item_id": "BKP-C1-0036", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 3.65, \"unit\": \"trillion\"}"}
+{"item_id": "BKP-C4-0074", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2024-04-01\", \"end\": \"2025-03-31\"}"}
+{"item_id": "BKP-C1-0099", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 15000000.0}"}
+{"item_id": "BKP-C4-0009", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C3-0003", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.2, \"unit\": \"\"}"}
+{"item_id": "BKP-C5-0064", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 9.0}"}
+{"item_id": "BKP-C5-0076", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 18.0}"}
+{"item_id": "BKP-C4-0030", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"kharif\"}"}
+{"item_id": "BKP-C4-0035", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C5-0047", "model": "demo-model-v0", "regime": "R1", "response": "{\"months\": [1, 2, 3]}"}
+{"item_id": "BKP-C2-0040", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 125.0, \"unit\": \"grams\"}"}
+{"item_id": "BKP-C3-0100", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 6.35, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C1-0081", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 30000.0}"}
+{"item_id": "BKP-C5-0010", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2017-04-01\", \"end\": \"2018-03-31\"}"}
+{"item_id": "BKP-C2-0017", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 21.0, \"unit\": \"quintals per hectare\"}"}
+{"item_id": "BKP-C6-0008", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"Jal Jeevan Mission\"}"}
+{"item_id": "BKP-C1-0045", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"1,000\"}"}
+{"item_id": "BKP-C3-0088", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"same\"}"}
+{"item_id": "BKP-C4-0066", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2024-10-01\", \"end\": \"2025-09-30\"}"}
+{"item_id": "BKP-C4-0081", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"Commission for Agricultural Costs and Prices\"}"}
+{"item_id": "BKP-C1-0100", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 12500000.0}"}
+{"item_id": "BKP-C5-0012", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2021-04-01\", \"end\": \"2022-03-31\"}"}
+{"item_id": "BKP-C1-0095", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 4500000.0}"}
+{"item_id": "BKP-C7-0009", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2.0}"}
+{"item_id": "BKP-C4-0058", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C3-0038", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1, \"unit\": \"lourak\"}"}
+{"item_id": "BKP-C2-0049", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 96.0, \"unit\": \"kilograms\"}"}
+{"item_id": "BKP-C6-0069", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C4-0062", "model": "demo-model-v0", "regime": "R1", "response": "{\"start\": \"2025-07-01\", \"end\": \"2026-09-28\"}"}
+{"item_id": "BKP-C7-0007", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 4.0}"}
+{"item_id": "BKP-C2-0053", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"false\"}"}
+{"item_id": "BKP-C1-0007", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2500000000000.0}"}
+{"item_id": "BKP-C3-0102", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 4, \"unit\": \"kranta\"}"}
+{"item_id": "BKP-C5-0082", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"2026-09-07\"}"}
+{"item_id": "BKP-C3-0043", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 8, \"unit\": \"kanal\"}"}
+{"item_id": "BKP-C5-0052", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 2017.0}"}
+{"item_id": "BKP-C3-0021", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 4537.5, \"unit\": \"sq_ft\"}"}
+{"item_id": "BKP-C1-0028", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 300.0, \"unit\": \"lakh crore\"}"}
+{"item_id": "BKP-C6-0055", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": \"true\"}"}
+{"item_id": "BKP-C3-0056", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.5, \"unit\": \"are\"}"}
+{"item_id": "BKP-C3-0041", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 20, \"unit\": \"marla\"}"}
+{"item_id": "BKP-C1-0096", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 150000000.0}"}
+{"item_id": "BKP-C1-0031", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 8000.0}"}
+{"item_id": "BKP-C1-0033", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 200000.0}"}
+{"item_id": "BKP-C5-0055", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 15.0}"}
+{"item_id": "BKP-C1-0090", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 25000000.0}"}
+{"item_id": "BKP-C1-0105", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 7000000.0}"}
+{"item_id": "BKP-C2-0032", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 21.0, \"unit\": \"lakh tonnes\"}"}
+{"item_id": "BKP-C3-0046", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 10, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C3-0068", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 1440, \"unit\": \"sq_ft\"}"}
+{"item_id": "BKP-C3-0099", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 0.793, \"unit\": \"acre\"}"}
+{"item_id": "BKP-C1-0026", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 214286.0}"}
+{"item_id": "BKP-C2-0004", "model": "demo-model-v0", "regime": "R1", "response": "{\"value\": 22.75, \"unit\": \"rupees per kg\"}"}
