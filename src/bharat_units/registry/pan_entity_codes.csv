@@ -1,0 +1,11 @@
+code_letter,entity_type,source_url,accessed,confidence
+P,Individual (Person),https://blog.tdsman.com/2012/07/know-your-pan-structure-meaning-of-pan-digits-income-tax-india/,2026-08-17,high
+C,Company,https://blog.tdsman.com/2012/07/know-your-pan-structure-meaning-of-pan-digits-income-tax-india/,2026-08-17,high
+H,Hindu Undivided Family (HUF),https://blog.tdsman.com/2012/07/know-your-pan-structure-meaning-of-pan-digits-income-tax-india/,2026-08-17,high
+F,Firm,https://blog.tdsman.com/2012/07/know-your-pan-structure-meaning-of-pan-digits-income-tax-india/,2026-08-17,high
+A,Association of Persons (AOP),https://blog.tdsman.com/2012/07/know-your-pan-structure-meaning-of-pan-digits-income-tax-india/,2026-08-17,high
+T,Trust,https://blog.tdsman.com/2012/07/know-your-pan-structure-meaning-of-pan-digits-income-tax-india/,2026-08-17,high
+B,Body of Individuals (BOI),https://blog.tdsman.com/2012/07/know-your-pan-structure-meaning-of-pan-digits-income-tax-india/,2026-08-17,medium
+L,Local Authority,https://blog.tdsman.com/2012/07/know-your-pan-structure-meaning-of-pan-digits-income-tax-india/,2026-08-17,medium
+J,Artificial Juridical Person,https://blog.tdsman.com/2012/07/know-your-pan-structure-meaning-of-pan-digits-income-tax-india/,2026-08-17,medium
+G,Government,https://blog.tdsman.com/2012/07/know-your-pan-structure-meaning-of-pan-digits-income-tax-india/,2026-08-17,medium

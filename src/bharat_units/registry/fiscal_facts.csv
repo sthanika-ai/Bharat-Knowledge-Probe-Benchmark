@@ -1,0 +1,16 @@
+id,fact_id,description,value,effective_note,source_url,accessed,confidence,volatile
+FF001,budget_date_current,Union Budget presentation date (2017 onward),1 Feb,"from Budget 2017-18, presented 1 Feb 2017 by FM Arun Jaitley",https://www.deccanherald.com/india/union-budget-2026-is-it-on-sunday-february-1-or-monday-february-2-why-is-there-a-confusion-3854003,2026-08-17,high,false
+FF002,budget_date_prior,Union Budget presentation date (pre-2017 convention),last working day of February,superseded by FF001 from 2017,https://en.wikipedia.org/wiki/2015_Union_budget_of_India,2026-08-17,high,false
+FF003,advance_tax_q1,Cumulative advance tax due by 15 June,15%,,https://cleartax.in/s/advance-tax,2026-08-17,high,false
+FF004,advance_tax_q2,Cumulative advance tax due by 15 September,45%,,https://cleartax.in/s/advance-tax,2026-08-17,high,false
+FF005,advance_tax_q3,Cumulative advance tax due by 15 December,75%,,https://cleartax.in/s/advance-tax,2026-08-17,high,false
+FF006,advance_tax_q4,Cumulative advance tax due by 15 March,100%,,https://cleartax.in/s/advance-tax,2026-08-17,high,false
+FF007,advance_tax_presumptive,Presumptive taxpayers (Sec 44AD/44ADA) advance tax,100% in one instalment by 15 March,no quarterly split required,https://cleartax.in/s/advance-tax,2026-08-17,high,false
+FF008,tds_return_q1,TDS return (24Q/26Q/27Q) due date for FY-Q1 (Apr-Jun),31 July,,https://cleartax.in/s/tds-payment-due-dates-and-penalties,2026-08-17,high,false
+FF009,tds_return_q2,TDS return due date for FY-Q2 (Jul-Sep),31 October,,https://cleartax.in/s/tds-payment-due-dates-and-penalties,2026-08-17,high,false
+FF010,tds_return_q3,TDS return due date for FY-Q3 (Oct-Dec),31 January,,https://cleartax.in/s/tds-payment-due-dates-and-penalties,2026-08-17,high,false
+FF011,tds_return_q4,TDS return due date for FY-Q4 (Jan-Mar),31 May,"gap from quarter-end is ~2 months, not ~1 like Q1-Q3",https://cleartax.in/s/tds-payment-due-dates-and-penalties,2026-08-17,high,false
+FF012,rbi_accounting_year_transition,RBI accounting-year realignment to Apr-Mar,recommended 15 Feb 2020,"stub transition year 2020-21 = Jul 2020-Mar 2021 (9 months); first full Apr-Mar year is 2021-22",https://www.business-standard.com/amp/article/pti-stories/rbi-board-recommends-aligning-accounting-year-with-fiscal-year-from-2020-21-120021501019_1.html,2026-08-17,high,false
+FF013,gst_qrmp_threshold,GST QRMP scheme (quarterly GSTR-3B/monthly tax payment) eligibility,turnover <= Rs 5 crore in preceding FY,optional scheme,https://cleartax.in/s/quarterly-return-monthly-payment-qrmp-scheme-gst,2026-08-17,high,false
+FF014,itr_due_date_nonaudit,ITR filing due date for non-audit individual/HUF taxpayers,31 July of the assessment year,frequently extended by CBDT notification in practice,https://www.kotaklife.com/insurance-guide/savingstax/tds-due-dates-for-itr-filing,2026-08-17,medium,true
+FF015,ist_offset,India Standard Time offset from UTC,UTC+05:30,no daylight saving observed,https://en.wikipedia.org/wiki/Indian_Standard_Time,2026-08-17,high,false

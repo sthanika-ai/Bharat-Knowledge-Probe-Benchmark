@@ -1,0 +1,4 @@
+season,sowing_start_month,sowing_end_month,harvest_start_month,harvest_end_month,note,source_url,accessed,confidence
+kharif,6,7,9,10,"SW monsoon-onset sowing; harvest before rabi sowing begins",https://ies.gov.in/arthapedia/concept/cropping-seasons-india-kharif-rabi,2026-08-17,high
+rabi,10,12,3,4,"post-monsoon/winter sowing, irrigation-dependent, not monsoon-dependent",https://ies.gov.in/arthapedia/concept/cropping-seasons-india-kharif-rabi,2026-08-17,high
+zaid,3,6,3,6,"short-duration (60-90 day) irrigated summer crops sown and harvested within the same Mar-Jun window, between rabi harvest and kharif sowing - no fixed sub-split the way kharif/rabi have separate sow/harvest windows",https://www.bighaat.com/kisan-vedika/blogs/harvesting-profits-how-summer-or-zaid-crops-can-boost-your-income,2026-08-17,high
