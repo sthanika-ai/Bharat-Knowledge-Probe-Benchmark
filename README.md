@@ -1,109 +1,53 @@
-# BKP-500 — Bharat Knowledge Probe (eval harness)
+# BKP-500 — Bharat Knowledge Probe
 
-*Does your model know where it is?*
+Evaluation harness for BKP-500, a benchmark of whether language models know India-specific locale conventions.
 
-[![License](https://img.shields.io/badge/code-Apache--2.0-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](pyproject.toml)
-[![Dataset](https://img.shields.io/badge/🤗%20dataset-sthanika--ai%2FBharat--Knowledge--Probe--Benchmark-yellow.svg)](https://huggingface.co/datasets/sthanika-ai/Bharat-Knowledge-Probe-Benchmark)
-[![Results](https://img.shields.io/badge/results-sthanika--ai%2FBKP--500--model--runs-blue.svg)](https://github.com/sthanika-ai/BKP-500-model-runs)
+[![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
+[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20dataset-BKP--500-yellow)](https://huggingface.co/datasets/sthanika-ai/Bharat-Knowledge-Probe-Benchmark)
+[![Report](https://img.shields.io/badge/report-sthanika.ai-black)](https://sthanika.ai/research/bkp500-2026)
 
-This repository is the **evaluation harness** for [BKP-500](https://huggingface.co/datasets/sthanika-ai/Bharat-Knowledge-Probe-Benchmark),
-a benchmark of things every Indian knows and frontier LLMs routinely fumble — lakh/crore
-arithmetic, Indian digit grouping, state-specific land units (bigha, katha, guntha...), traditional
-mass units, the Indian fiscal year, agricultural crop seasons, government schemes, and structural
-identifiers (PAN, GSTIN, IFSC, PIN codes).
+## What it measures
 
-The dataset itself — items and per-item provenance — is hosted separately
-on the Hugging Face Hub: **[sthanika-ai/Bharat-Knowledge-Probe-Benchmark](https://huggingface.co/datasets/sthanika-ai/Bharat-Knowledge-Probe-Benchmark)**.
-This repo is the code that runs a model against it and grades the responses.
+BKP-500 tests knowledge of Indian numeral magnitudes and digit grouping (lakh/crore), state-specific land units (bigha, katha, guntha), traditional mass units, the Indian fiscal year, agricultural crop seasons, government schemes and structural identifiers (PAN, GSTIN, IFSC, PIN codes). Scoring is fully deterministic, with no LLM judge. This repo is the code that runs a model against the corpus and grades the responses: model adapters (OpenAI, Anthropic, HF `transformers`, local OpenAI-compatible servers), numeric, categorical and date graders, and scoring, plus `bharat_units`, the reference normalizer library the gold answers were computed against. No benchmark data ships here. Benchmark page: [sthanika.ai](https://sthanika.ai) <!-- TODO: link the exact BKP-500 page -->
 
-## What's in this repo
+## Quickstart
 
-| Path | What it is |
-|---|---|
-| `src/bkp_eval/` | The harness: model adapters (OpenAI, Anthropic, HF `transformers`, local OpenAI-compatible servers), graders (numeric, categorical, date), and scoring. |
-| `src/bharat_units/` | A small normalizer library (Indian numerals, mass, fiscal year, seasons) that the numeric/categorical graders use as the reference implementation of "correct" — the same library the dataset's gold answers were computed against. |
-| `scripts/run_eval.py` | CLI entrypoint: wires a model adapter + the corpus + the runner together. |
-| `tests/` | Unit and property-based tests for the harness and `bharat_units`. |
-
-No benchmark data ships in this repo — see [Getting the dataset](#getting-the-dataset) below.
-
-## Install
+Requires Python 3.10 or newer. The corpus is auto-gated on Hugging Face: accept its terms on the dataset page, then log in once.
 
 ```bash
 git clone https://github.com/sthanika-ai/Bharat-Knowledge-Probe-Benchmark.git
 cd Bharat-Knowledge-Probe-Benchmark
-pip install -e ".[dev]"
-```
+pip install -e ".[dev]" huggingface_hub
+huggingface-cli login
 
-Requires Python ≥3.10. One extra is optional, only needed if you want to load the corpus
-straight from the Hub instead of a local checkout (see below):
+# Corpus -> data/items/*.jsonl, the layout load_corpus() reads by default
+python -c "from huggingface_hub import snapshot_download; snapshot_download('sthanika-ai/Bharat-Knowledge-Probe-Benchmark', repo_type='dataset', local_dir='.', allow_patterns=['data/items/*.jsonl'])"
 
-```bash
-pip install -e ".[hf-datasets]"
-```
-
-## Getting the dataset
-
-Either clone the dataset repo into `data/` (matches the on-disk layout `load_corpus()` expects
-by default):
-
-```bash
-git clone https://huggingface.co/datasets/sthanika-ai/Bharat-Knowledge-Probe-Benchmark data
-```
-
-...or load it straight from the Hub in Python, with no local checkout:
-
-```python
-from bkp_eval.items import load_corpus_from_hf
-
-corpus = load_corpus_from_hf()   # sthanika-ai/Bharat-Knowledge-Probe-Benchmark, every category config
-```
-
-## Running an evaluation
-
-```bash
-python scripts/run_eval.py --model <name> --mode smoke   # small sanity run
-python scripts/run_eval.py --model <name> --mode full
-```
-
-Local/self-hosted models (vLLM, Ollama) need no API key — the harness talks to them over a local
-OpenAI-compatible endpoint via `LocalAPIAdapter`. If you evaluate a model through the OpenAI or
-Anthropic cloud APIs instead, `pip install openai` / `pip install anthropic` and export
-`OPENAI_API_KEY` / `ANTHROPIC_API_KEY` in your shell before running (see
-`src/bkp_eval/adapters/openai_adapter.py` / `anthropic_adapter.py` for exactly what they read).
-See `scripts/run_eval.py` for the model registry
-and per-model config (device, batch size, sampling), and `src/bkp_eval/adapters/` to wire up a new
-backend.
-
-### Scoring a results file directly
-
-```bash
-python -m bkp_eval.score results/<model>/full.jsonl
-```
-
-reports Bharat Score, per-category accuracy, and secondary metrics (unit discipline,
-overconfidence, refusal rate, consistency across repeated samples).
-
-## Status & caveats
-
-- **All 552 rows have passed the required two-reviewer check** (`adjudicated: true`, `split:
-  test`) — see the dataset card for details. A contamination-resistant public-dev/gated-test
-  split is still planned but not yet built.
-- **`bharat-units`'s CLI is a stub** — use the library modules directly (`bharat_units.numerals`,
-  `.mass`, `.fiscal`, `.seasons`, `.identifiers`).
-- **Cloud adapters are implemented but not yet run against a live key** (`openai_adapter.py`,
-  `anthropic_adapter.py`) — see their docstrings before relying on them for a paid run.
-
-## Testing
-
-```bash
+# Confirm the install is sound
 pytest
-ruff check .
-mypy src
+
+# Smoke test, then a full run (3 samples, both regimes), then score it
+python scripts/run_eval.py --model <name> --mode smoke
+python scripts/run_eval.py --model <name> --mode full
+python -m bkp_eval.score results/<name>/full.jsonl
 ```
+
+Notes:
+
+- `<name>` is a key in the `MODELS` registry. The registry in this repo's `scripts/run_eval.py` is a template; the exact run script and per-model configs for the 19 published models are in [BKP-500-model-runs](https://github.com/sthanika-ai/BKP-500-model-runs).
+- Self-hosted models (vLLM, Ollama) need no API key. The harness talks to them over a local OpenAI-compatible endpoint via `LocalAPIAdapter`. For OpenAI or Anthropic models, `pip install openai` or `pip install anthropic` and export `OPENAI_API_KEY` or `ANTHROPIC_API_KEY`. The cloud adapters are implemented but have not been run against a live key.
+- To load the corpus from the Hub in Python instead: `pip install -e ".[hf-datasets]"`, then `from bkp_eval.items import load_corpus_from_hf`.
+- `python -m bkp_eval.score` reports Bharat Score, per-category accuracy, unit discipline, overconfidence, refusal rate and consistency across repeated samples.
+- `bharat_units`' CLI is a stub; use the library modules directly (`bharat_units.numerals`, `.mass`, `.fiscal`, `.seasons`, `.identifiers`).
+- Lint and type checks: `ruff check .` and `mypy src`.
+
+## Results
+
+Full report: [sthanika.ai/research/bkp500-2026](https://sthanika.ai/research/bkp500-2026). Exact run configuration and leaderboard for 19 models: [BKP-500-model-runs](https://github.com/sthanika-ai/BKP-500-model-runs).
 
 ## Citation
+
+Cite as in [`CITATION.cff`](CITATION.cff).
 
 ```bibtex
 @misc{bkp500,
@@ -114,22 +58,12 @@ mypy src
 }
 ```
 
-See [`CITATION.cff`](CITATION.cff) for a machine-readable citation record.
-
 ## License
 
-- **Harness code** in this repository: [Apache-2.0](LICENSE).
-- **Dataset** (items, provenance): CC-BY-NC-4.0 — see the
-  [dataset card](https://huggingface.co/datasets/sthanika-ai/Bharat-Knowledge-Probe-Benchmark) for the exact terms.
+Apache-2.0 for the harness code, see [LICENSE](LICENSE). The dataset is CC-BY-NC-4.0; see the [dataset card](https://huggingface.co/datasets/sthanika-ai/Bharat-Knowledge-Probe-Benchmark).
 
-## Contributing
+## Related
 
-Issues and PRs are welcome — bug reports on graders/adapters, new model adapters, and corrections
-to `bharat_units`'s reference facts (with a source) are all in scope. Corrections or additions to
-the benchmark *data itself* (new items, fixed gold answers, sourcing) belong on the
-[dataset repo](https://huggingface.co/datasets/sthanika-ai/Bharat-Knowledge-Probe-Benchmark), not here.
-
-## Related repositories
-
-- **[BKP-500 dataset](https://huggingface.co/datasets/sthanika-ai/Bharat-Knowledge-Probe-Benchmark)** — the corpus itself, on Hugging Face
-- **[BKP-500-model-runs](https://github.com/sthanika-ai/BKP-500-model-runs)** — raw responses, scored reports, and exact run configuration for every model evaluated with this harness
+- [BKP-500 dataset](https://huggingface.co/datasets/sthanika-ai/Bharat-Knowledge-Probe-Benchmark): the corpus, on Hugging Face. Corrections to the data itself belong there.
+- [BKP-500-model-runs](https://github.com/sthanika-ai/BKP-500-model-runs): run configuration and leaderboard for every evaluated model
+- Site: [sthanika.ai](https://sthanika.ai)
