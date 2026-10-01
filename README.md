@@ -8,7 +8,7 @@ Evaluation harness for BKP-500, a benchmark of whether language models know Indi
 
 ## What it measures
 
-BKP-500 tests knowledge of Indian numeral magnitudes and digit grouping (lakh/crore), state-specific land units (bigha, katha, guntha), traditional mass units, the Indian fiscal year, agricultural crop seasons, government schemes and structural identifiers (PAN, GSTIN, IFSC, PIN codes). Scoring is fully deterministic, with no LLM judge. This repo is the code that runs a model against the corpus and grades the responses: model adapters (OpenAI, Anthropic, HF `transformers`, local OpenAI-compatible servers), numeric, categorical and date graders, and scoring, plus `bharat_units`, the reference normalizer library the gold answers were computed against. No benchmark data ships here. Benchmark page: [sthanika.ai](https://sthanika.ai) <!-- TODO: link the exact BKP-500 page -->
+BKP-500 tests knowledge of Indian numeral magnitudes and digit grouping (lakh/crore), state-specific land units (bigha, katha, guntha), traditional mass units, the Indian fiscal year, agricultural crop seasons, government schemes and structural identifiers (PAN, GSTIN, IFSC, PIN codes). Scoring is fully deterministic, with no LLM judge. This repo is the code that runs a model against the corpus and grades the responses: model adapters (OpenAI, Anthropic, HF `transformers`, local OpenAI-compatible servers), numeric, categorical and date graders, and scoring, plus `bharat_units`, the reference normalizer library the gold answers were computed against. No benchmark data ships here. Benchmark page: [sthanika.ai/research/bkp500-2026](https://sthanika.ai/research/bkp500-2026)
 
 ## Quickstart
 
