@@ -1,0 +1,18 @@
+fact_id,description,value,note,source_url,accessed,confidence
+US_ZIP_LEN,US ZIP code length,5,digits,https://facts.usps.com/decoding-the-zip-code/,2026-08-17,high
+US_ZIP_FIRST_DIGIT,US ZIP code first-digit meaning,region,"0 (Northeast) to 9 (West) - 10 broad regions",https://facts.usps.com/decoding-the-zip-code/,2026-08-17,high
+US_ZIP_SCF_DIGITS,US ZIP code sectional-center-facility digits,"2nd-3rd","identifies the SCF, a regional mail processing hub - ~900 SCFs nationwide",https://facts.usps.com/decoding-the-zip-code/,2026-08-17,high
+US_ZIP_LOCAL_DIGITS,US ZIP code local-delivery digits,"4th-5th","identifies the specific post office/delivery area",https://facts.usps.com/decoding-the-zip-code/,2026-08-17,high
+SWIFT_BIC_TOTAL_LEN,SWIFT/BIC code length (branch-level),11,"8-character BIC identifies an institution; 11-character BIC identifies a specific branch",https://equalsmoney.com/corporate-fx/insights/what-is-a-swift-code,2026-08-17,high
+SWIFT_BIC_BANK_LEN,SWIFT/BIC bank-code portion length,4,alphabetic,https://equalsmoney.com/corporate-fx/insights/what-is-a-swift-code,2026-08-17,high
+SWIFT_BIC_COUNTRY_LEN,SWIFT/BIC country-code portion length,2,"ISO country code letters",https://equalsmoney.com/corporate-fx/insights/what-is-a-swift-code,2026-08-17,high
+SWIFT_BIC_LOCATION_LEN,SWIFT/BIC location-code portion length,2,"city/region, letters or digits",https://equalsmoney.com/corporate-fx/insights/what-is-a-swift-code,2026-08-17,high
+SWIFT_BIC_BRANCH_LEN,SWIFT/BIC branch-code portion length,3,"optional; specifies a particular branch",https://equalsmoney.com/corporate-fx/insights/what-is-a-swift-code,2026-08-17,high
+SSN_TOTAL_LEN,US Social Security Number length,9,digits,https://www.ssa.gov/history/ssn/geocard.html,2026-08-17,high
+SSN_AREA_LEN,US SSN area-number portion length (first 3 digits),3,"historically encoded geographic issuance location (east-to-west, like early ZIP codes); randomized nationwide since 2011",https://www.ssa.gov/history/ssn/geocard.html,2026-08-17,high
+SSN_GROUP_LEN,US SSN group-number portion length (middle 2 digits),2,"identifies the block of numbers being issued; 00 never assigned",https://www.ssa.gov/history/ssn/geocard.html,2026-08-17,high
+SSN_SERIAL_LEN,US SSN serial-number portion length (last 4 digits),4,"0001-9999 within each area/group; 0000 never used",https://www.ssa.gov/history/ssn/geocard.html,2026-08-17,high
+US_COUNTY_LOUISIANA,US administrative-division naming exception - Louisiana,parish,"Louisiana is the only US state using 'parish' instead of 'county', from its French/Spanish Catholic-diocese history",https://www.britannica.com/topic/Why-Does-Louisiana-Have-Parishes-Instead-of-Counties,2026-08-17,high
+US_COUNTY_ALASKA,US administrative-division naming exception - Alaska,borough,"Alaska uses 'borough' instead of 'county'; 48 other states use 'county'",https://legalclarity.org/which-states-have-parishes-instead-of-counties/,2026-08-17,high
+VIN_TOTAL_LEN,Vehicle Identification Number (VIN) total length,17,characters,https://en.wikibooks.org/wiki/Vehicle_Identification_Numbers_(VIN_codes)/Check_digit,2026-08-17,high
+VIN_CHECK_DIGIT_POS,VIN check-digit position,9,"weighted-sum mod-11 checksum over all 17 transliterated characters (position 9 itself weighted 0); remainder 10 is represented as X",https://www.carcheckervin.com/blog/vin-check-digit-explained,2026-08-17,high

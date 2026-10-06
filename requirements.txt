@@ -1,0 +1,12 @@
+# Runtime dependencies for the harness's local-inference backends. `pip install -e ".[dev]"`
+# installs only the harness itself (jsonschema) plus dev tooling, so the Hugging Face
+# `transformers` backend (backend="hf" in configs/run_eval.py in BKP-500-model-runs) fails without these:
+#
+#   pip install -r requirements.txt
+#
+# Unpinned on purpose. The exact versions behind the published results (including vllm for the
+# vllm-backend models) are pinned in BKP-500-model-runs/requirements.txt.
+torch
+transformers
+accelerate
+huggingface_hub

@@ -1,0 +1,19 @@
+fact_id,description,value,note,source_url,accessed,confidence
+IFSC_TOTAL_LEN,IFSC total code length,11,characters,https://razorpay.com/blog/decoding-ifsc-codes-meaning-importance/,2026-08-17,high
+IFSC_BANK_LEN,IFSC bank-code portion length (positions 1-4),4,"alphabetic; e.g. HDFC, SBIN",https://razorpay.com/blog/decoding-ifsc-codes-meaning-importance/,2026-08-17,high
+IFSC_RESERVED_CHAR,IFSC reserved character (position 5),0,"always the digit 0, reserved for future use by RBI",https://razorpay.com/blog/decoding-ifsc-codes-meaning-importance/,2026-08-17,high
+IFSC_BRANCH_LEN,IFSC branch-code portion length (positions 6-11),6,"CORRECTED from PLAN.md's stated 3 - verified this session against multiple sources; 4+1+6=11 matches IFSC's known total length, 4+1+3=8 does not",https://razorpay.com/blog/decoding-ifsc-codes-meaning-importance/,2026-08-17,high
+GSTIN_TOTAL_LEN,GSTIN total code length,15,characters,https://busy.in/gst/gstin-everything-you-need-to-know/,2026-08-17,high
+GSTIN_STATE_CODE_LEN,GSTIN state-code portion length (positions 1-2),2,numeric,https://busy.in/gst/gstin-everything-you-need-to-know/,2026-08-17,high
+GSTIN_PAN_LEN,GSTIN embedded-PAN portion length (positions 3-12),10,"the entity's own 10-character PAN",https://busy.in/gst/gstin-everything-you-need-to-know/,2026-08-17,high
+GSTIN_ENTITY_CODE_POS,GSTIN entity/registration-count code position,13,"alphanumeric, based on number of registrations under that PAN in that state",https://busy.in/gst/gstin-everything-you-need-to-know/,2026-08-17,high
+GSTIN_FIXED_CHAR,GSTIN fixed character (position 14),Z,"default for regular taxpayers; other letters used for special registration types (e.g. TDS/TCS)",https://busy.in/gst/gstin-everything-you-need-to-know/,2026-08-17,high
+GSTIN_CHECK_DIGIT_POS,GSTIN check-digit position,15,"Luhn-mod-36 checksum of the first 14 characters",https://medium.com/@dhananjaygokhale/decoding-gst-number-checksum-digit-1ef2c8c53ad6,2026-08-17,high
+PAN_TOTAL_LEN,PAN total code length,10,characters,https://en.wikipedia.org/wiki/Permanent_account_number,2026-08-17,high
+PAN_SERIES_LEN,PAN alphabetic-series portion length (positions 1-3),3,"AAA-ZZZ, sequential allotment, no individual meaning",https://en.wikipedia.org/wiki/Permanent_account_number,2026-08-17,high
+PAN_NUMERIC_LEN,PAN numeric-series portion length (positions 6-9),4,"0001-9999",https://en.wikipedia.org/wiki/Permanent_account_number,2026-08-17,high
+PAN_SURNAME_POSITION,PAN character position encoding the surname/entity-name initial,5,"position 4 is entity type, position 5 is the surname/entity-name initial",https://en.wikipedia.org/wiki/Permanent_account_number,2026-08-17,high
+VEHICLE_REG_STATE_CODE_LEN,Vehicle registration state-code portion length,2,"alphabetic, e.g. MH, DL, KA",https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_India,2026-08-17,high
+VEHICLE_REG_RTO_LEN,Vehicle registration RTO-code portion length,2,numeric,https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_India,2026-08-17,high
+VEHICLE_REG_SERIAL_LEN,Vehicle registration serial-number portion length,4,"0001-9999",https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_India,2026-08-17,high
+VEHICLE_REG_EXCLUDED_LETTERS,Letters excluded from the vehicle registration series portion,O and I,"avoided to prevent confusion with the digits 0 and 1",https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_India,2026-08-17,high
